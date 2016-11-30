@@ -1,0 +1,26 @@
+{
+	"name": "alexa-wer-hat-es-gesagt",
+	"version": "1.0.0",
+	"description": "Alexa überprüft, wie fit du mit berühmten Zitaten bist.",
+	"main": "index.js",
+	"dependencies": {
+		"alexa-sdk": "^1.0.6"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"alexa",
+		"zitate"
+	],
+	"author": "Matthias <matthias.pfeil@wwu.de>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mpfeil/alexa-wer-hat-es-gesagt.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mpfeil/alexa-wer-hat-es-gesagt/issues"
+	},
+	"homepage": "https://github.com/mpfeil/alexa-wer-hat-es-gesagt#readme"
+}
