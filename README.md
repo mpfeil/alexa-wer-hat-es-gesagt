@@ -1,4 +1,4 @@
-# alexa-wer-hat-es-gesagt [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg) [![Certification Status](https://img.shields.io/badge/Status-Certification-orange.svg)](https://img.shields.io/badge/Status-Live-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://img.shields.io/badge/license-MIT-blue.svg)
+# alexa-wer-hat-es-gesagt [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg) [![Certification Status](https://img.shields.io/badge/Status-Live-orange.svg)](https://img.shields.io/badge/Status-Live-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://img.shields.io/badge/license-MIT-blue.svg)
 
 > Wenn man keine Ahnung hat: Einfach mal Fresse halten! - Dieter Nuhr
 
